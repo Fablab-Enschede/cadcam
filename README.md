@@ -2,7 +2,11 @@ cadcam
 ======
 
 cadcam files
-these files are usefull for parametric designs (grasshopper or solid works), laser cutting files (such as boxes etc) 
-they are intended to be improved  or changed so better or more usefull design files will result
 
-code and scripts for fablab machines (text files for ultimaker firmware, clay printer etc and svg scripts) will be in folder "code"
+code and scripts for fablab machines. 
+
+only text files such as open scad and svg scripts will be in this repo
+
+binary files (solid works, rhino etc) are in the grabgad files
+
+ultimaker firmware code is in the files under "ultimaker"
